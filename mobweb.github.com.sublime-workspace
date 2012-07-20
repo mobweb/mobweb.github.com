@@ -1,0 +1,1041 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"textc",
+				"textColorLight"
+			],
+			[
+				"textColor",
+				"textColorLight"
+			],
+			[
+				"contain",
+				"container_height"
+			],
+			[
+				"footer",
+				"footer_height"
+			],
+			[
+				"conta",
+				"container_height"
+			],
+			[
+				"nav",
+				"is-nav-webseiten"
+			],
+			[
+				"jquery-",
+				"jquery-lightbox-title"
+			],
+			[
+				"animate",
+				"animateCTAShadow"
+			],
+			[
+				"font-",
+				"font-style"
+			],
+			[
+				"padding_b",
+				"padding_below_title"
+			],
+			[
+				"padding_be",
+				"padding_below_header"
+			],
+			[
+				"intro",
+				"introContainer"
+			],
+			[
+				"footerTo",
+				"footerTopNew"
+			],
+			[
+				"if",
+				"ifelse	if … else …"
+			],
+			[
+				"_",
+				"$_	REQUEST['…']"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"list packa",
+				"Package Control: List Packages"
+			],
+			[
+				"remove pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"linter",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"linter: show",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"linter show",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"lint",
+				"SublimeLinter: Extract Annotations"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 397.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": true,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/louis/Dropbox/dev/mobweb.github.com/stylesheets/styles.css",
+		"/Users/louis/Dropbox/dev/mobweb.github.com/2010-12-05-using-perch-cms-and-the-blog-app.html",
+		"/Users/louis/Dropbox/dev/mobweb.github.com/index.html",
+		"/Users/louis/Dropbox/dev/mobweb.github.com/files/no-scrolling.js",
+		"/Users/louis/Dropbox/dev/mobweb.github.com/sitemap.txt",
+		"/Users/louis/Dropbox/dev/mobweb.github.com/index.md",
+		"/Users/louis/Dropbox/dev/mobweb.github.com/.gitignore",
+		"/Users/louis/Dropbox/MobWeb.ch/Kundenprojekte/clairelinder.ch/site/includes/content/_header.php",
+		"/Users/louis/Dropbox/MobWeb.ch/Kundenprojekte/clairelinder.ch/site/assets/css/screen.scss",
+		"/Users/louis/Dropbox/MobWeb.ch/Kundenprojekte/clairelinder.ch/site/index.php",
+		"/Users/louis/Desktop/Adobe Acrobat X Professional + CORE keygen.torrent",
+		"/Users/louis/Desktop/Adobe.Photoshop.Extended.CS5.torrent",
+		"/Users/louis/Desktop/Adobe illustrator CS5.torrent",
+		"/Users/louis/Dropbox/MobWeb.ch/Kundenprojekte/clairelinder.ch/site - entwuerfe/assets/css/screen2.scss",
+		"/Users/louis/Dropbox/MobWeb.ch/Kundenprojekte/clairelinder.ch/site/artist-statement.php",
+		"/Users/louis/Dropbox/MobWeb.ch/Kundenprojekte/clairelinder.ch/site/includes/content/_head_partial.php",
+		"/Users/louis/Dropbox/MobWeb.ch/Kundenprojekte/clairelinder.ch/site/assets/js/script.js",
+		"/Users/louis/Dropbox/_sync/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/louis/MobWeb.ch/Kundenprojekte/clairelinder.ch/site/assets/css/screen.scss",
+		"/Users/louis/MobWeb.ch/Kundenprojekte/clairelinder.ch/site/exhibitions.php",
+		"/Users/louis/MobWeb.ch/Kundenprojekte/clairelinder.ch/site/artist-statement.php",
+		"/Users/louis/MobWeb.ch/Kundenprojekte/clairelinder.ch/site/biography.php",
+		"/Users/louis/MobWeb.ch/Kundenprojekte/clairelinder.ch/site/includes/content/_footer.php",
+		"/Users/louis/MobWeb.ch/Kundenprojekte/clairelinder.ch/site/artworks-2011.php",
+		"/Users/louis/MobWeb.ch/Kundenprojekte/clairelinder.ch/site/index.php",
+		"/Users/louis/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/louis/MobWeb.ch/Kundenprojekte/clairelinder.ch/site/contact.php",
+		"/Users/louis/MobWeb.ch/Kundenprojekte/clairelinder.ch/site/artworks-2010.php",
+		"/Users/louis/MobWeb.ch/Kundenprojekte/clairelinder.ch/site/artworks-2012.php",
+		"/Users/louis/MobWeb.ch/Kundenprojekte/clairelinder.ch/site/artworks-2009.php",
+		"/Users/louis/MobWeb.ch/Kundenprojekte/clairelinder.ch/site/assets/css/media-queries.scss",
+		"/Users/louis/MobWeb.ch/Kundenprojekte/clairelinder.ch/site/assets/js/script.js",
+		"/Users/louis/MobWeb.ch/Kundenprojekte/clairelinder.ch/site/assets/css/shadowbox.css",
+		"/Users/louis/MobWeb.ch/Kundenprojekte/clairelinder.ch/site/includes/php/imgpreloader.php",
+		"/Users/louis/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/louis/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/louis/MobWeb.ch/Kundenprojekte/seesichtmagazin.ch/site/galerie.php",
+		"/Users/louis/MobWeb.ch/Kundenprojekte/seesichtmagazin.ch/site/galerie-import.php",
+		"/Users/louis/MobWeb.ch/Kundenprojekte/seesichtmagazin.ch/site/galerie-album.php",
+		"/Users/louis/MobWeb.ch/Kundenprojekte/clairelinder.ch/site/assets/images/artworks/2012/1.jpg",
+		"/Users/louis/MobWeb.ch/Kundenprojekte/clairelinder.ch/site/assets/js/html5shiv.js",
+		"/Users/louis/MobWeb.ch/Kundenprojekte/clairelinder.ch/site/includes/php/php.php",
+		"/Users/louis/MobWeb.ch/Kundenprojekte/clairelinder.ch/site/includes/content/_prehead.php",
+		"/Users/louis/MobWeb.ch/Kundenprojekte/clairelinder.ch/site/includes/content/_head_partial.php",
+		"/Users/louis/MobWeb.ch/Eigene Projekte/mobweb.ch/site/index.php",
+		"/Users/louis/MobWeb.ch/Eigene Projekte/mobweb.ch/site/includes/content/_footer.php",
+		"/Users/louis/MobWeb.ch/Eigene Projekte/mobweb.ch/site/includes/content/_afterfooter.php",
+		"/Users/louis/MobWeb.ch/Eigene Projekte/mobweb.ch/site/includes/content/_header.php",
+		"/Users/louis/MobWeb.ch/Eigene Projekte/mobweb.ch/site/assets/css/screen.scss",
+		"/Users/louis/MobWeb.ch/Eigene Projekte/mobweb.ch/site/includes/content/_head_partial.php",
+		"/Users/louis/MobWeb.ch/Kundenprojekte/clairelinder.ch/site/test.html",
+		"/Users/louis/MobWeb.ch/Kundenprojekte/clairelinder.ch/site/o.png",
+		"/Users/louis/MobWeb.ch/Kundenprojekte/clairelinder.ch/site/assets/js/jquery.imageeffects.js",
+		"/Users/louis/MobWeb.ch/Kundenprojekte/clairelinder.ch/site/assets/css/jquery.imageeffects.css",
+		"/Users/louis/MobWeb.ch/Kundenprojekte/clairelinder.ch/site/includes/content/_header.php",
+		"/Users/louis/MobWeb.ch/Kundenprojekte/clairelinder.ch/site/assets/images/zipfel.png",
+		"/Users/louis/MobWeb.ch/Kundenprojekte/clairelinder.ch/site/assets/js/shadowbox.js",
+		"/Users/louis/MobWeb.ch/Kundenprojekte/clairelinder.ch/site/assets/js/jquery.lightbox/jquery.lightbox.min.js",
+		"/Users/louis/MobWeb.ch/Kundenprojekte/clairelinder.ch/site/assets/css/lightbox/classic-dark/jquery.lightbox.css",
+		"/Users/louis/MobWeb.ch/Eigene Projekte/mobweb.ch/site/includes/php/php.php",
+		"/Users/louis/MobWeb.ch/Eigene Projekte/mobweb.ch/site/assets/js/script.js",
+		"/Users/louis/MobWeb.ch/Eigene Projekte/mobweb.ch/site/includes/php/content.php",
+		"/Users/louis/MobWeb.ch/Eigene Projekte/mobweb.ch/site/kontakt.php",
+		"/Users/louis/MobWeb.ch/Eigene Projekte/mobweb.ch/site/assets/css/screen.css",
+		"/Users/louis/MobWeb.ch/Eigene Projekte/mobweb.ch/site/assets/css/media-queries.scss",
+		"/Users/louis/MobWeb.ch/Kundenprojekte/clairelinder.ch/site - entwuerfe/includes/content/_head_partial.php",
+		"/Users/louis/MobWeb.ch/Kundenprojekte/clairelinder.ch/site - entwuerfe/index.php",
+		"/Users/louis/MobWeb.ch/Eigene Projekte/mobweb.ch/site/assets/js/jquery-1.7.1.min.js",
+		"/Users/louis/MobWeb.ch/Kundenprojekte/clairelinder.ch/site/assets/css/screen.css",
+		"/Users/louis/MobWeb.ch/Eigene Projekte/mobweb.ch/site/assets/css/layout.scss",
+		"/Users/louis/MobWeb.ch/Kundenprojekte/clairelinder.ch/site - entwuerfe/assets/css/screen1.scss",
+		"/Users/louis/MobWeb.ch/Kundenprojekte/clairelinder.ch/site - entwuerfe/assets/css/screen1.css",
+		"/Users/louis/MobWeb.ch/Kundenprojekte/clairelinder.ch/site/assets/css/screen26.scss",
+		"/Users/louis/MobWeb.ch/Kundenprojekte/clairelinder.ch/site/assets/css/screen24.scss",
+		"/Users/louis/MobWeb.ch/Kundenprojekte/clairelinder.ch/site/assets/css/screen25.scss",
+		"/Users/louis/MobWeb.ch/Kundenprojekte/clairelinder.ch/site/assets/css/screen25.css",
+		"/Users/louis/MobWeb.ch/Kundenprojekte/clairelinder.ch/site/assets/css/screen23.scss",
+		"/Users/louis/MobWeb.ch/Kundenprojekte/clairelinder.ch/site/assets/css/screen22.scss",
+		"/Users/louis/MobWeb.ch/Kundenprojekte/clairelinder.ch/site/assets/images/paintings2/1.jpg",
+		"/Users/louis/MobWeb.ch/Kundenprojekte/clairelinder.ch/site/assets/css/screen19.scss",
+		"/Users/louis/MobWeb.ch/Kundenprojekte/clairelinder.ch/site/assets/css/screen21.scss",
+		"/Users/louis/MobWeb.ch/Kundenprojekte/clairelinder.ch/site/assets/css/screen20.scss",
+		"/Users/louis/MobWeb.ch/Kundenprojekte/clairelinder.ch/site/assets/css/screen18.scss",
+		"/Users/louis/MobWeb.ch/Kundenprojekte/clairelinder.ch/site/assets/css/screen17.scss",
+		"/Users/louis/MobWeb.ch/Kundenprojekte/clairelinder.ch/site/assets/css/screen13.scss",
+		"/Users/louis/MobWeb.ch/Kundenprojekte/clairelinder.ch/site/assets/css/screen16.scss",
+		"/Users/louis/MobWeb.ch/Kundenprojekte/clairelinder.ch/site/assets/css/screen11.scss",
+		"/Users/louis/MobWeb.ch/Kundenprojekte/clairelinder.ch/site/assets/css/screen15.scss",
+		"/Users/louis/MobWeb.ch/Kundenprojekte/clairelinder.ch/site/assets/css/screen14.scss",
+		"/Users/louis/MobWeb.ch/Kundenprojekte/clairelinder.ch/site/assets/css/screen-black-layout2.css",
+		"/Users/louis/MobWeb.ch/Kundenprojekte/clairelinder.ch/site/assets/css/screen12.scss",
+		"/Users/louis/Desktop/test/xx.php",
+		"/Users/louis/MobWeb.ch/Kundenprojekte/clairelinder.ch/site/index2.php",
+		"/Users/louis/Desktop/test/xxx.php",
+		"/Users/louis/MobWeb.ch/Kundenprojekte/clairelinder.ch/site/assets/css/screen1.scss",
+		"/Users/louis/MobWeb.ch/Kundenprojekte/clairelinder.ch/site/assets/css/screen-layout3.scss",
+		"/Users/louis/MobWeb.ch/Kundenprojekte/clairelinder.ch/stuff/Artist's statement -  Art promotion services.docx",
+		"/Users/louis/MobWeb.ch/Kundenprojekte/clairelinder.ch/site/assets/css/screen-black-layout7.scss",
+		"/Users/louis/MobWeb.ch/Kundenprojekte/clairelinder.ch/site/assets/css/screen-black-layout5.scss",
+		"/Users/louis/MobWeb.ch/Kundenprojekte/clairelinder.ch/site/assets/css/screen-black-layout6.scss",
+		"/Users/louis/MobWeb.ch/Kundenprojekte/clairelinder.ch/site/assets/css/screen-white-font2.scss",
+		"/Users/louis/MobWeb.ch/Kundenprojekte/clairelinder.ch/site/assets/css/screen-white.scss",
+		"/Users/louis/MobWeb.ch/Kundenprojekte/clairelinder.ch/site/assets/css/screen-black-layout6.css",
+		"/Users/louis/MobWeb.ch/Kundenprojekte/clairelinder.ch/site/assets/css/screen-black-layout2.scss",
+		"/Users/louis/MobWeb.ch/Kundenprojekte/clairelinder.ch/site/assets/css/screen-black-layout3.scss",
+		"/Users/louis/MobWeb.ch/Kundenprojekte/clairelinder.ch/site/assets/css/screen-black-layout4.scss",
+		"/Users/louis/MobWeb.ch/Kundenprojekte/clairelinder.ch/site/assets/css/screen-white.css",
+		"/Users/louis/MobWeb.ch/Kundenprojekte/clairelinder.ch/site/assets/css/reset.css",
+		"/Users/louis/MobWeb.ch/Eigene Projekte/mobweb.ch/site/assets/css/screen-default.scss",
+		"/Users/louis/MobWeb.ch/Ressourcen/Vorlagen/Webseite/site/assets/css/reset.css",
+		"/Users/louis/MobWeb.ch/Ressourcen/Vorlagen/Webseite/site/includes/content/_header.php",
+		"/Users/louis/MobWeb.ch/Eigene Projekte/mobweb.ch/site/blog.php",
+		"/Users/louis/MobWeb.ch/Eigene Projekte/mobweb.ch/site/webseiten.php",
+		"/Users/louis/Desktop/fragebogen louis.txt",
+		"/Users/louis/Desktop/noembed.php",
+		"/Users/louis/MobWeb.ch/Eigene Projekte/mobweb.ch/site/webseiten-drupal.php",
+		"/Users/louis/Desktop/pano/_tour/vtour/tour.xml",
+		"/Users/louis/MobWeb.ch/Eigene Projekte/mobweb.ch/site/test.php",
+		"/Users/louis/MobWeb.ch/Eigene Projekte/mobweb.ch/site/black-75.png",
+		"/Users/louis/MobWeb.ch/Eigene Projekte/mobweb.ch/site/assets/css/skrollr.css",
+		"/Users/louis/MobWeb.ch/Eigene Projekte/mobweb.ch/site/assets/js/skrollr.js",
+		"/Users/louis/MobWeb.ch/Eigene Projekte/mobweb.ch/site/includes/content/_prehead.php",
+		"/Users/louis/MobWeb.ch/Eigene Projekte/mobweb.ch/site/webseiten-wordpress.php",
+		"/Users/louis/MobWeb.ch/Eigene Projekte/mobweb.ch/site/blog-post.php",
+		"/Users/louis/MobWeb.ch/Eigene Projekte/mobweb.ch/site/assets/js/respond.js",
+		"/Users/louis/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/louis/MobWeb.ch/Eigene Projekte/mobweb.ch/site/assets/js/jquery.pseudo.js",
+		"/Users/louis/Dropbox/Backups/privat/texterei.ch/site/includes/content/head.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/louis/MobWeb.ch/Eigene Projekte/mobweb.ch/site",
+			"<open folders>",
+			"",
+			"/Users/louis/MobWeb.ch/Eigene Projekte/DealMaker App (Shopify)",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"header",
+			"daniel",
+			"background",
+			"textColorLight",
+			"textcolorlight",
+			"textcolor",
+			"lightbo",
+			"5.jp",
+			"on canvas ",
+			"cm 201",
+			"$textcolor",
+			"black",
+			"strong>",
+			"h3",
+			"isolat",
+			"the wall",
+			"uncle j",
+			"waterline",
+			"gathering",
+			"pulsa",
+			"waterl",
+			"waving",
+			"waving in",
+			"rich with",
+			"pink",
+			"hover",
+			":hover",
+			"hover",
+			":hover",
+			".  ",
+			"2011",
+			"r  ",
+			"8  ",
+			"0  ",
+			".  ",
+			"2012",
+			".  ",
+			"  -",
+			"-  ",
+			"r  5",
+			".  '",
+			"m  2",
+			"h3",
+			"+j",
+			"<a href=\"assets/images/artworks/2012/",
+			"submit",
+			"hover",
+			"ie",
+			"bio",
+			"artw",
+			"boxshad",
+			"boxshadow",
+			"box-shadow",
+			"box-shad",
+			"h2",
+			"strong",
+			"bold",
+			"textfont",
+			"displayfont",
+			"#969696",
+			"#454545",
+			"hover",
+			"rel=\"gallery\" ",
+			"class=\"lightbox\" ",
+			"url(",
+			"clear",
+			"/artwork/",
+			"  2012",
+			".  ",
+			"images/",
+			"artworks",
+			"painting",
+			"#inde",
+			"index",
+			"hover",
+			"centerintro",
+			"color:",
+			"textColor",
+			"color:",
+			"font-",
+			"lightbox",
+			"lightb",
+			"lightbox",
+			"submit",
+			"box-shad",
+			"hover",
+			"href",
+			":hover",
+			"+j",
+			"form",
+			"nav {",
+			".php",
+			"fakeho",
+			"h1",
+			"font-fami",
+			"font-family",
+			"\"main",
+			"red",
+			"#333",
+			"smooth",
+			"h2",
+			"artwork",
+			"img {",
+			"overlay",
+			"#bg",
+			"subtlep",
+			"biogr",
+			"h1",
+			"main",
+			"h2",
+			"font-famil",
+			"5px",
+			"artwork:",
+			"red",
+			"font-fam",
+			"background",
+			"black",
+			"background:",
+			"black",
+			"z-index",
+			"text-shado",
+			"font-f",
+			"text-sh",
+			"color:",
+			"text-shad",
+			"linkcolor",
+			"index",
+			"\n                <div class=\"has-image seesichtmagazin small-image\">\n                    <h3>\n                        Beratung\n                    </h3>\n                    <p>\n                        Zu Beginn eines Projektes sind die genauen Anforderungen und Spezifikationen oftmals noch unklar. Sie haben vielleicht ein Idee oder ein Bedürfnis, welches durch Ihr Projekt befriedigt werden sollte. Falls erwünscht können wir Ihnen nützliche Tipps und Empfehlungen abgeben, wie Sie das Projekt umsetzen könnten und was unserer Meinung nach Sinn macht. Nicht nur im technischen Bereich, sondern auch (betriebs-)wirtschaftlich stehen wir Ihnen gerne Beratend zur Seite.\n                    </p>\n                </div>\n\n                <div class=\"has-image seesichtmagazin odd small-image\">\n                    <h3>\n                        Beratung\n                    </h3>\n                    <p>\n                        Zu Beginn eines Projektes sind die genauen Anforderungen und Spezifikationen oftmals noch unklar. Sie haben vielleicht ein Idee oder ein Bedürfnis, welches durch Ihr Projekt befriedigt werden sollte. Falls erwünscht können wir Ihnen nützliche Tipps und Empfehlungen abgeben, wie Sie das Projekt umsetzen könnten und was unserer Meinung nach Sinn macht. Nicht nur im technischen Bereich, sondern auch (betriebs-)wirtschaftlich stehen wir Ihnen gerne Beratend zur Seite.\n                    </p>\n                </div>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"textColor",
+			"on canvas. ",
+			"cm. 201",
+			"h3>",
+			". ",
+			"2009",
+			"r ",
+			"8 ",
+			"0 ",
+			". ",
+			"2011",
+			"2010",
+			". ",
+			" -",
+			"- ",
+			"r 5",
+			". '",
+			"m 2",
+			"<a href=\"assets/images/artworks/2012/large/",
+			"$fadeTop",
+			"$fadeBottom",
+			"rel=\"shadowbox[gallery]\" ",
+			"",
+			"url(shadowbox/",
+			"/artworks/",
+			" 2012",
+			". ",
+			"textColorDark",
+			"",
+			"rel=\"nofollow\">",
+			"arrow-up.png",
+			"<a href=\"/assets/images/showcase/",
+			"$text_zur_externen_webseite",
+			"ff4b00",
+			"lightbox",
+			"whitelion-perch"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 112.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"index",
+				"index.md"
+			],
+			[
+				"giti",
+				".gitignore"
+			],
+			[
+				"had",
+				"includes/content/_header.php"
+			],
+			[
+				"screen",
+				"assets/css/screen.scss"
+			],
+			[
+				"",
+				"artist-statement.php"
+			],
+			[
+				"script",
+				"assets/js/script.js"
+			],
+			[
+				"head_p",
+				"includes/content/_head_partial.php"
+			],
+			[
+				"exhi",
+				"exhibitions.php"
+			],
+			[
+				"artist",
+				"artist-statement.php"
+			],
+			[
+				"bio",
+				"biography.php"
+			],
+			[
+				"foot",
+				"includes/content/_footer.php"
+			],
+			[
+				"2011",
+				"artworks-2011.php"
+			],
+			[
+				"contact",
+				"contact.php"
+			],
+			[
+				"ex",
+				"exhibitions.php"
+			],
+			[
+				"exhib",
+				"exhibitions.php"
+			],
+			[
+				"2010",
+				"artworks-2010.php"
+			],
+			[
+				"2012",
+				"artworks-2012.php"
+			],
+			[
+				"2009",
+				"artworks-2009.php"
+			],
+			[
+				"media",
+				"assets/css/media-queries.scss"
+			],
+			[
+				"shadow",
+				"assets/css/shadowbox.css"
+			],
+			[
+				"biog",
+				"biography.php"
+			],
+			[
+				"imgpre",
+				"includes/php/imgpreloader.php"
+			],
+			[
+				"art",
+				"artworks-2012.php"
+			],
+			[
+				"footer",
+				"includes/content/_footer.php"
+			],
+			[
+				"prehead",
+				"includes/content/_prehead.php"
+			],
+			[
+				"php",
+				"includes/php/php.php"
+			],
+			[
+				"preh",
+				"includes/content/_prehead.php"
+			],
+			[
+				"head",
+				"includes/content/_head_partial.php"
+			],
+			[
+				"img",
+				"includes/php/imgpreloader.php"
+			],
+			[
+				"artw",
+				"artworks-2012.php"
+			],
+			[
+				"imageffe",
+				"assets/css/jquery.imageeffects.css"
+			],
+			[
+				"head_",
+				"includes/content/_head_partial.php"
+			],
+			[
+				"medi",
+				"assets/css/media-queries.scss"
+			],
+			[
+				"header",
+				"includes/content/_header.php"
+			],
+			[
+				"prehea",
+				"includes/content/_prehead.php"
+			],
+			[
+				"exhibi",
+				"exhibitions.php"
+			],
+			[
+				"shad",
+				"assets/js/shadowbox.js"
+			],
+			[
+				"arto",
+				"artworks-2012.php"
+			],
+			[
+				"lightb",
+				"assets/js/jquery.lightbox/jquery.lightbox.min.js"
+			],
+			[
+				"artwork",
+				"artworks-2012.php"
+			],
+			[
+				"_header",
+				"includes/content/_header.php"
+			],
+			[
+				"exh",
+				"exhibitions.php"
+			],
+			[
+				"scrip",
+				"assets/js/script.js"
+			],
+			[
+				"foote",
+				"includes/content/_footer.php"
+			],
+			[
+				"artwor",
+				"artworks-2012.php"
+			],
+			[
+				"_footer",
+				"includes/content/_footer.php"
+			],
+			[
+				"artis",
+				"artist-statement.php"
+			],
+			[
+				"scree",
+				"assets/css/screen.scss"
+			],
+			[
+				"24",
+				"assets/css/screen24.scss"
+			],
+			[
+				"25",
+				"assets/css/screen25.scss"
+			],
+			[
+				"23",
+				"assets/css/screen23.scss"
+			],
+			[
+				"screen19",
+				"assets/css/screen19.scss"
+			],
+			[
+				"20",
+				"assets/css/screen20.scss"
+			],
+			[
+				"screen13",
+				"assets/css/screen13.scss"
+			],
+			[
+				"index.",
+				"index.php"
+			],
+			[
+				"screen11.scss",
+				"assets/css/screen11.scss"
+			],
+			[
+				"screen11",
+				"assets/css/screen11.scss"
+			],
+			[
+				"screen1",
+				"assets/css/screen1.scss"
+			],
+			[
+				"layout6",
+				"assets/css/screen-black-layout6.scss"
+			],
+			[
+				"screen-white",
+				"assets/css/screen-white.css"
+			],
+			[
+				"default",
+				"assets/css/screen-default.scss"
+			],
+			[
+				"blog.",
+				"blog.php"
+			],
+			[
+				"content",
+				"includes/php/content.php"
+			],
+			[
+				"webs",
+				"webseiten.php"
+			],
+			[
+				"scr",
+				"assets/css/screen.scss"
+			],
+			[
+				"webseiten",
+				"webseiten-drupal.php"
+			],
+			[
+				"kontakt",
+				"kontakt.php"
+			],
+			[
+				"sc",
+				"assets/js/script.js"
+			],
+			[
+				"skrol",
+				"assets/css/skrollr.css"
+			],
+			[
+				"wes",
+				"webseiten.php"
+			],
+			[
+				"webseite",
+				"webseiten-wordpress.php"
+			],
+			[
+				"afterfoo",
+				"includes/content/_afterfooter.php"
+			],
+			[
+				"pseudo",
+				"assets/js/jquery.pseudo.js"
+			],
+			[
+				"jquery",
+				"assets/js/jquery.pseudo.js"
+			],
+			[
+				"layout",
+				"assets/css/layout.scss"
+			],
+			[
+				"blog-post",
+				"blog-post.php"
+			],
+			[
+				"pie.ht",
+				"assets/js/PIE.htc"
+			],
+			[
+				"shiv",
+				"assets/js/html5shiv.js"
+			],
+			[
+				"webse",
+				"webseiten.php"
+			],
+			[
+				"ligh",
+				"assets/css/lightbox/jquery.lightbox.css"
+			],
+			[
+				"html5",
+				"assets/js/html5shiv.js"
+			],
+			[
+				"afterf",
+				"includes/content/_afterfooter.php"
+			],
+			[
+				"blog",
+				"blog.php"
+			],
+			[
+				"me",
+				"assets/css/media-queries.scss"
+			],
+			[
+				"phone",
+				"mobile-apps-phonegap.php"
+			],
+			[
+				"mobile",
+				"mobile-apps-html5.php"
+			],
+			[
+				"online",
+				"onlineshops-shopify.php"
+			],
+			[
+				"text.p",
+				"includes/php/text.php"
+			],
+			[
+				"phonegap",
+				"mobile-apps-phonegap.php"
+			],
+			[
+				"prestap",
+				"onlineshops-prestashop.php"
+			],
+			[
+				"shop",
+				"onlineshops-shopify.php"
+			],
+			[
+				"magento",
+				"onlineshops-magento.php"
+			],
+			[
+				"perch",
+				"webseiten-perch.php"
+			],
+			[
+				"dru",
+				"webseiten-drupal.php"
+			],
+			[
+				"drupal",
+				"assets/css/screen-drupal.scss"
+			],
+			[
+				"text.",
+				"includes/php/text.php"
+			],
+			[
+				"webdes",
+				"webseiten-wordpress.php"
+			],
+			[
+				"text",
+				"includes/php/text.php"
+			],
+			[
+				"fot",
+				"includes/content/_footer.php"
+			],
+			[
+				"lightbox",
+				"assets/css/lightbox/jquery.lightbox.ie6.css"
+			],
+			[
+				"foo",
+				"includes/content/_afterfooter.php"
+			],
+			[
+				"after",
+				"includes/content/_afterfooter.php"
+			],
+			[
+				"shopi",
+				"assets/css/screen-shopify.scss"
+			],
+			[
+				"light",
+				"assets/css/lightbox/jquery.lightbox.css"
+			],
+			[
+				"screen-sh",
+				"assets/css/screen-shopify.scss"
+			],
+			[
+				"shopify",
+				"onlineshops-shopify.php"
+			],
+			[
+				"heda",
+				"includes/content/_head_partial.php"
+			],
+			[
+				"presta",
+				"onlineshops-prestashop.php"
+			],
+			[
+				"conten",
+				"includes/php/content.php"
+			],
+			[
+				"htac",
+				".htaccess"
+			],
+			[
+				"wordpre",
+				"webseiten-wordpress.php"
+			],
+			[
+				"m",
+				"onlineshops-magento.php"
+			],
+			[
+				"htacces",
+				".htaccess"
+			],
+			[
+				"w",
+				"webseiten-drupal.php"
+			],
+			[
+				"htacce",
+				".htaccess"
+			],
+			[
+				"rupal",
+				"webseiten-drupal.php"
+			],
+			[
+				"htacc",
+				".htaccess"
+			],
+			[
+				"blog-po",
+				"blog-post.php"
+			],
+			[
+				"ht",
+				".htaccess"
+			],
+			[
+				"blog-p",
+				"blog-post.php"
+			],
+			[
+				"app",
+				"mobile-apps.php"
+			],
+			[
+				"scren",
+				"assets/css/screen.css"
+			],
+			[
+				"lig",
+				"assets/js/jquery.lightbox.min.js"
+			],
+			[
+				"web",
+				"webseiten.php"
+			],
+			[
+				"websei",
+				"webseiten.php"
+			],
+			[
+				"mobi",
+				"mobile-apps.php"
+			],
+			[
+				"pp",
+				"includes/php/php.php"
+			],
+			[
+				"inde",
+				"index.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 367.0,
+	"status_bar_visible": true
+}

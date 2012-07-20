@@ -1,0 +1,80 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>Personal Blog by Louis Bataillard</title>
+
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1>Personal Blog</h1>
+        <p>My name is Louis Bataillard and I am a freelance web-developer based in Zurich, Switzerland. This blog covers everything related to my work as a web-developer.</p>
+
+        <p>You can find my company website at <a href="http://mobweb.ch">mobweb.ch</a> (it's in German only) or contact me directly at <a href="mailto:info@mobweb.ch">info@mobweb.ch</a></p>
+
+        <h2>Recent blog posts:</h2>
+        <ul class="links">
+          <li><a href="/2011-04-26-mail-templates-now-available-as-a-chrome-web-app.html">Mail Templates - Now available as a Chrome web app</a></li>
+          <li><a href="/2010-12-06-phonegap-prevent-scrolling-when-gesture-starts-on-input-element.html">PhoneGap: Prevent scrolling when gesture starts on input element</a></li>
+          <li><a href="/2010-12-05-using-perch-cms-and-the-blog-app.html">Using Perch CMS and the Blog app</a></li>
+        </ul>
+
+        <h2>Links:</h2>
+        <ul class="links">
+          <li><a href="http://mobweb.ch/">My Company Website (German)</a></li>
+          <li><a href="https://github.com/mobweb">My GitHub Profile</a></li>
+        </ul>
+
+
+      </header>
+      <section>
+        <p>06.12.2010</p>
+        <h3>PhoneGap: Prevent scrolling when gesture starts on input element</h3>
+
+        <p>When creating an iPhone or iPad application using PhoneGap, I usually try to mimic the behavior of a native application as close as possible. One of the most important thing is to disable the scrolling of the body in the browser window. Even if the current view is not bigger than the screen, the web view allows scrolling. In my opinion, that&#8217;s unnecessary and ugly.</p>
+
+        <p>Luckily, the scrolling can be disabled using some JavaScript as described here: <a href="http://wiki.phonegap.com/w/page/16494815/Preventing-Scrolling-on-iPhone-Phonegap-Applications" title="PhoneGap Wiki">PhoneGap Wiki: Preventing scrolling on iPhone PhoneGap applications</a>. What this does is it fires a function every time the body is scrolled. This function tells the browser to prevent the default action, which in this case would be scrolling the view. Unfortunately, this doesn&#8217;t work when the touching gesture starts on an input or textarea element. When the gesture starts there, the browser never fires the body&#8217;s ontouchstart event.</p>
+
+        <p>For my current project, an iOS app called &#8220;Simple Mail&#8221;, the view is exactly the size of the screen, and most of the body is covered with input elements and a texture. If the user starts his touch gesture on either of those elements, he will still be able to scroll</p>
+
+        <p>A (partial) solution for this problem I came up with:</p>
+
+        <ul>
+        <li>Cover every input with a transparent <span class="caps">DIV</span>, the <span class="caps">DIV</span> has the exact size of the element it&#8217;s covering</li>
+        </ul>
+
+        <ul>
+        <li>The user doesn&#8217;t see that <span class="caps">DIV</span>, so when he tries to touch the input element, he actually touches the <span class="caps">DIV</span>.</li>
+        </ul>
+
+        <ul>
+        <li>When the user touches the <span class="caps">DIV</span>, I hide it and set the focus on the underlying input element. The user doesn&#8217;t notice that anything is different.</li>
+        </ul>
+
+        <ul>
+        <li>When the input element loses focus, the <span class="caps">DIV</span> is once again displayed (although invisible)</li>
+        </ul>
+
+        <p>However, this is only a partial solution. It works only when the object in question doesn&#8217;t already have focus. It doesn&#8217;t work when the user first touches the <span class="caps">DIV</span> (thus hiding it and focusing the input element) and then starts scrolling. When the input element is already focused and active, there seems to be no way of stopping the user from scrolling the view when starting the gesture on said element.</p>
+
+        <p>I put together a class that automates the whole process: First, it looks for every input or textarea element and puts a transparent <span class="caps">DIV</span> on top of every one of these elements. Then it binds events to that <span class="caps">DIV</span> and the covered elements to handle the showing/hiding of the <span class="caps">DIV</span> as well as setting the focus on the input elements</p>
+
+        <p>Check out the class <a href="http://www.mobweb.ch/files/blog/ios-scrolling/no-scrolling.js" title="Link to script download">here</a>. Just put &#8220;covers.addCovers()&#8221; in your body&#8217;s onload function:
+        <pre><code>&lt;body onload=&quot;covers.addCovers()&quot; ontouchmove=&quot;event.preventDefault()&quot;&gt;</code></pre>
+        </p>     
+      </section>
+      <footer>
+      </footer>
+    </div>
+    <script src="javascripts/scale.fix.js"></script>
+    
+  </body>
+</html>
